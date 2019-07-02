@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "name": "汽车",
+      "shuliang": 200
+    },
+    {
+      "name": "摩托车",
+      "shuliang": 200
+    },
+    {
+      "name": "自行车",
+      "shuliang": 200
+    },
+    {
+      "name": "独轮车",
+      "shuliang": 200
+    },
+    {
+      "name": "老人车",
+      "shuliang": 200
+    },
+    {
+      "name": "其它车",
+      "shuliang": 200
+    }
+  ]
+}
